@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Diljot11
 - 👀 I’m interested in Data science and python
 - 🌱 I’m currently learning Problem solving(DSA) and Python
-- 💞️ I'm in love with Python these days
+- 💞️ I'm in love with Python
+- 🌏 I'm also integrating stuff with MuleSoft (Connecting the world)
 - 📫 How to reach me https://www.linkedin.com/in/diljot11
 
 
